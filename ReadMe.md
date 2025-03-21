@@ -1,4 +1,4 @@
-#🔥 Minhas Habilidades:
+## Minhas Habilidades:
 Atualmente cursando Engenharia de Software, sou formado pela Fundação Matias Machline como Técnico em Informática. Possuo mais de 3 anos de experiência em desenvolvimento de software, com vivência em ambiente ágil de desenvolvimento.
 
 Sou um profissional apaixonado por criar soluções inovadoras e eficientes. Tenho experiência com React Native, SQLite, Drizzle ORM, Prisma ORM, Zustand, tailwindCSS, Zod, TypeScript, C, JavaScript, Java, SQL, Dart, Flutter, Firebase e Android Studio. Também possuo conhecimentos em bancos de dados e versionamento de código com Git/GitHub, além de noções avançadas de UX/UI e noções de metodologias ágeis.
